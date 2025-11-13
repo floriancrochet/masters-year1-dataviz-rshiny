@@ -112,14 +112,18 @@ Example visualization:
 
 ## 📜 License
 This project is released under the **MIT License**.  
-© 2025 Florian > À compléter (add last name)
+© 2025 Juliette Grison and Florian Crochet
 
 ---
 
-## 👤 Author
-**Florian > À compléter (Last Name)**  
-*Econometrics & Statistics Student | R Shiny Developer | Data Visualization Enthusiast*  
-📫 [LinkedIn](> À compléter) | [Email](> À compléter) | [Portfolio](> À compléter)
+## 👤 Authors
+**Juliette Grison**  
+[GitHub Profile](https://github.com/juliette-grison)  
+
+**Florian Crochet**  
+[GitHub Profile](https://github.com/floriancrochet)
+
+*Master 1 – Econometrics & Statistics, Applied Econometrics Track* 
 
 ---
 
